@@ -10,3 +10,27 @@ while True:
         break
 for ism,value in talaba.items():
     print(ism.title(),':',value)
+
+
+
+rint("nta son uchun kalkulyator")
+s=0
+n=1
+x=1
+while  True:
+    son=int(input("son kiriting="))
+    amal=input("amal kiriting:")
+    if amal=='clear':
+       break
+    elif amal=='+':
+        s=s+son
+        print(s)
+    elif amal=='*':
+        n=n*son
+        print(n)
+    elif amal=='/':
+        s!=0
+        natija
+
+
+    
